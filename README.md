@@ -17,7 +17,7 @@ Included Features:
 A java file that "automates" the data process. Requires user-input of all values that will go into the ArrayList<Double>.
 
 * DataTest.java
-A JUnit test of all methods found in Data.java
+A JUnit test of functions found in Data.java
 
 # How to Use
 * Data.java
