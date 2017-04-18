@@ -11,9 +11,13 @@ Included Features:
 * `getMaximum()` - Returns the maximum value of all values in ArrayList
 * `SetList(ArrayList<Double> dataSet)` - Overrides the current ArrayList<Double> with new data
 * `getList()` - returns a copy of the dataSet
+* `getRange()` - returns the range of values in DataSet
 
 ## DataFactory.java
 A java file that "automates" the data process. Requires user-input of all values that will go into the ArrayList<Double>.
+
+## DataTest.java
+A JUnit test of all methods found in Data.java
 
 # How to Use
 ## Data.java
