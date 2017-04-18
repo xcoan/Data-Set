@@ -71,4 +71,12 @@ public class Data {
     }
     return maximum;
   }
+
+  /**
+   * @method getRange();
+   * @returns range, a Double of the highest of all values - the lowest of all values
+   * */
+  protected double getRange() {
+    return (this.getMaximum() - this.getMinimum());
+  }
 }
